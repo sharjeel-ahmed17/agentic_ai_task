@@ -14,6 +14,7 @@ This document provides step-by-step instructions to set up and run the project.
     ```bash
     git clone https://github.com/sharjeel-ahmed17/agentic_ai_task.git
     cd agentic_ai_task
+    cd task_1
     ```
 
 2. **Create and activate a virtual environment:**
